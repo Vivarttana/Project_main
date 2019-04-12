@@ -1,0 +1,3 @@
+GNUSim8085 is available in repository of most Linux distributions. If the latest version is not available then you can download source or binaries
+
+https://gnusim8085.github.io/download
